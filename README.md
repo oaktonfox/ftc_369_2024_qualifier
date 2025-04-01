@@ -1,2 +1,4 @@
-# ftc_369_2025_qualifier
-code used for qualifier events
+# Road Runner Quickstart
+
+Check out the [docs](https://rr.brott.dev/docs/v1-0/tuning/).
+
